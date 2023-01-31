@@ -1,0 +1,7 @@
+Foi passado como se criar novos branchs
+
+comandos merge, pull, push
+
+alterar entre master e testing
+
+comparar branchs
