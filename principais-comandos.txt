@@ -1,0 +1,8 @@
+Foi passado os principais e mais basicos comandos dos git
+
+git init
+touch para criacao de arquivos
+mkdir para adicionar diretorios
+git status
+git commit 'mensagem'
+git add arqvios criados
